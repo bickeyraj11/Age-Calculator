@@ -1,12 +1,18 @@
-# CodeAlpha_AgeCalculater
 
-**Project Name:** Age_Calculater
+Here's a sample README file for your Age Calculator project on GitHub:
 
-**Description:** Using JavaScript, CSS, and HTML to build this age calculator.
+Age Calculator
+A simple web-based Age Calculator built with HTML, CSS, and JavaScript.
 
-**Features:** Easily calculate your age according to your date of birth.
+Description
+This project is a straightforward Age Calculator that allows users to input their birthdate and calculates their age. It's a great tool for anyone looking to understand the basics of web development and JavaScript.
 
-**Demo:** See the project pics, it's a fully responsive and attractive project.
-![pic now](https://github.com/faisalabbas001/CodeAlpha_AgeCalculater/assets/167535154/a95d22fd-0b51-435d-b459-2a07e7d0b196)
-
-**See the video:** [Watch the demo video](https://github.com/faisalabbas001/CodeAlpha_AgeCalculater/assets/167535154/ed7a8c03-03d7-4e85-9f91-ea8144987bd2)
+Features
+User-friendly interface
+Real-time age calculation
+Responsive design
+Technologies Used
+HTML: For the basic structure of the calculator
+CSS: For styling the calculator
+JavaScript: For implementing the age calculation logic
+How to Use
