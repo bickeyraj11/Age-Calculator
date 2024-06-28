@@ -39,7 +39,7 @@ body {
 .inputs-wrapper button{
     height: 50px;
     background-color: dodgerblue;
-    color: #080808;
+    color: white;
     font-weight: 500;
     border-radius: 5px;
     box-shadow: 4px 4px 8px rgb(189 200 213), -4px -4px 8px rgb(255 255 255);
